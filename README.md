@@ -56,7 +56,7 @@ What?
 Android Yolo
 Android Yolo can detect the different objects.
 Time required to detect the object is good.
-Detect only basic objects (Limited objects).
+Detect only basic objects (Limited objects)
 Probability of the object detected is given there.
 Flat objects like notebook, book, screens are difficult to detect.
 This app only detects single object in frame.
