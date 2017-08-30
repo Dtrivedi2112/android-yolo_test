@@ -20,4 +20,50 @@ School of Interactive Computing
 Georgia Institute of Technology  
 
 Credits:
+
 App launch icon made by [Freepik](http://www.freepik.com) from [Flaticon](http://www.flaticon.com) is licensed by [Creative Commons BY 3.0](http://creativecommons.org/licenses/by/3.0/).
+
+
+
+Name: Evaluate Android Yolo app 
+ 
+Date Started: 18/07/17
+ 
+Using:
+Android Studio
+Java
+Android Yolo App
+ 
+Why?
+To evaluate the object detection of the classes specified in it and check the confidence by taking pictures of the objects from different angles
+ 
+How?
+Fork the Android Yolo App repository from github.
+Clone Android Yolo App repository.
+Run the source code.
+Examine the source code - try to change the apk version in the build files if any error.
+Examine time to detect the objects.
+Focus on object.
+Try to recognize the faces in images.
+Testing the app by focusing on two objects placing close to each other.
+  
+Outcome
+Source code of Android Yolo is successfully executed. It is able to detect the objects and the probability score is displayed on top of the screen.
+ 
+Date Completed:  20/07/2017
+ 
+What?
+Android Yolo
+Android Yolo can detect the different objects.
+Time required to detect the object is good.
+Detect only basic objects (Limited objects).
+Probability of the object detected is given there.
+Flat objects like notebook, book, screens are difficult to detect.
+This app only detects single object in frame.
+It is difficult to identify the object if it is behind another object.
+
+
+
+
+Notes:
+Object must be in green frame of camera while using Android Yolo.
